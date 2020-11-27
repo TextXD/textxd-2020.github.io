@@ -2,7 +2,7 @@
 title: TextXD 2020 Speakers
 event: TextXD 2020
 event_url:
-authors: 'Maryam-Vareth'
+authors: 'maryam'
 location: Berkeley, CA
 summary: Meet our distingulished speakers.
 

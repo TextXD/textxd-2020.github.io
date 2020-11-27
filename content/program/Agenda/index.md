@@ -2,7 +2,7 @@
 title: TextXD 2020 Program
 event: TextXD 2020
 event_url:
-authors: 'Maryam-Vareth'
+authors: 'maryam'
 location: Berkeley, CA
 summary: TextXD 2020 will take place Thursday Dec. 10 through Saturday Dec. 12 virtually.
 abstract:

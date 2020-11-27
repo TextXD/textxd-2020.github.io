@@ -6,7 +6,7 @@ nameurl: https://dlab.berkeley.edu/people/stacy-reardon
 
 # Username (this should match the folder name)
 authors:
-- caroline
+- stacy
 
 # Is this the primary user of the site?
 superuser: false

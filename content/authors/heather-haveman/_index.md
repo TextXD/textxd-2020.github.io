@@ -6,7 +6,7 @@ nameurl: http://www.heatherhaveman.net/
 
 # Username (this should match the folder name)
 authors:
-- admin
+- heather
 
 # Is this the primary user of the site?
 superuser: true

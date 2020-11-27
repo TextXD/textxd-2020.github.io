@@ -6,7 +6,7 @@ nameurl: https://bids.berkeley.edu/people/niek-veldhuis
 
 # Username (this should match the folder name)
 authors:
-- caroline
+- Niek
 
 # Is this the primary user of the site?
 superuser: false

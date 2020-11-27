@@ -6,7 +6,7 @@ nameurl: https://profiles.ucsf.edu/oksana.gologorskaya
 
 # Username (this should match the folder name)
 authors:
-- srivastava
+- oksana
 
 # Is this the primary user of the site?
 superuser: false
