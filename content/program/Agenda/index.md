@@ -80,11 +80,14 @@ math: true
 | Day 2 | <a href="#day2">Friday, Dec. 11</a> | Talks  | Virtual |
 | Day 3 | <a href="#day3">Saturday, Dec. 12</a> | Award Ceremony & Closing Remarks | Virtual |
 
-This year's conference will also feature a **three-day (48 hour) “Law and Society” Hackathon** on December 10-12. Participants will focus on analyzing text datasets from investigative reporting on the subject of police (mis)conduct. 
+This year's conference will also feature a **three-day (48 hour) “Law and Society” Hackathon** on December 10-12. Participants will focus on analyzing text datasets from investigative reporting on the subject of police (mis)conduct.  
+  
+
+
 
 ## <a id="day2">Day 1: Thursday, December 10th (Talks)</a>
 
-Session 1: Under-resourced Languages & Literature (Chair: Niek Veldhuis & Co-Chair: Ciera Martinez)
+###Session 1: Under-resourced Languages & Literature (*Chair: Niek Veldhuis, Co-Chair: Ciera Martinez*)
 
 | Time(PT)| Topic  | Speaker |
 |:----------|:-------|:--------|
@@ -94,9 +97,11 @@ Session 1: Under-resourced Languages & Literature (Chair: Niek Veldhuis & Co-Cha
 | | Etaoin ... Shrdlu ... Cmfwyp? In Search of Lexical Networks and Cul-de-Sac Words | Matt Lavin | 
 | | LitBank: Born-Literary Natural Language Processing| David Bamman| 
 | | <span class="badge warning">Panel w/ Q&A</span> | All|
-| 12:45pm | <span class="badge danger"> Break </span> |
+| 12:45pm | <span class="badge danger"> Break </span> |  
+  
 
-Session 2: NLP in the Social Sciences (Chair: Heather Haveman & Co-Chair: Maryam Vareth)
+
+###Session 2: NLP in the Social Sciences (*Chair: Heather Haveman, Co-Chair: Maryam Vareth*)
 
 | Time(PT)| Topic  | Speaker |
 |:----------|:-------|:--------|
@@ -105,9 +110,11 @@ Session 2: NLP in the Social Sciences (Chair: Heather Haveman & Co-Chair: Maryam
 | | Faceted Rasch scaling and multitask deep learning for debiased, explainable, continuous measurement of hate speech | Chris Kennedy |
 | | And the Rest is History | Laura Nelson | 
 | | <span class="badge warning">Panel w/ Q&A</span> | All|
-| 2:15pm | <span class="badge danger"> Break </span> |
+| 2:15pm | <span class="badge danger"> Break </span> |  
+  
 
-Session 3:  NLP in Theory and Application (Chair: Niek Veldhuis, Co-Chair: Ciera Martinez) 
+
+###Session 3:  NLP in Theory and Application (*Chair: Niek Veldhuis, Co-Chair: Ciera Martinez*) 
 
 | Time(PT)| Topic  | Speaker |
 |:----------|:-------|:--------|
@@ -115,9 +122,11 @@ Session 3:  NLP in Theory and Application (Chair: Niek Veldhuis, Co-Chair: Ciera
 | | Moving Away from One-Size-Fits-All Language Representations | Rada Mihalcea | 
 | | Sure, transformers are cool... but have you tried rules? | Rada Mihalcea|
 | | <span class="badge warning">Panel w/ Q&A</span> | All|
-| 3:30pm | <span class="badge danger"> Break </span> |
+| 3:30pm | <span class="badge danger"> Break </span> |  
+  
 
-Lightning Talks Session 1 (Chair: Ciera Martinez, Co-Chair: Maryam Vareth)
+
+###Lightning Talks Session 1 (*Chair: Ciera Martinez, Co-Chair: Maryam Vareth*)
 
 | Time(PT)| Topic  | Speaker |
 |:----------|:-------|:--------|
@@ -132,12 +141,13 @@ Lightning Talks Session 1 (Chair: Ciera Martinez, Co-Chair: Maryam Vareth)
 | | Mining Narratives from Large Text Corpora| Elliott Ash |
 | | Keyword Assisted Topic Models| Shusei Eshima, Kosuke Imai, and Tomoya Sasaki|
 | | **Questions for lightening talks (10 min)** | |
-| 4:45pm| <span class="badge danger"> Social Hour: Lightning Talk Discussion, Networking and Mingling </span>  |
+| 4:45pm| <span class="badge danger"> Social Hour: Lightning Talk Discussion, Networking and Mingling </span>  |  
+  
 
 
 ## <a id="day3">Day 2: Friday, December 11th (Talks)</a>
 
-Session 4: Health & Life Sciences (Chair: Anobel Odisho, Co-Chair: Maryam Vareth)
+###Session 4: Health & Life Sciences (*Chair: Anobel Odisho, Co-Chair: Maryam Vareth*)
 
 | Time      | Topic  | Speaker 
 |:----------|:-------|:--------|
@@ -147,9 +157,12 @@ Session 4: Health & Life Sciences (Chair: Anobel Odisho, Co-Chair: Maryam Vareth
 | | Interpretability in clinical text mining | Irena Spasic |
 | | Conversation summarization: a neural-symbolic linguistic pipeline architecture for medical reporting | Sjaak Brinkkemper |
 | | <span class="badge warning">Panel w/ Q&A</span> | All|
-| 12:45pm | <span class="badge danger"> Break </span> |
+| 12:45pm | <span class="badge danger"> Break </span> |  
+  
 
-Session 5: Real World NLP (Chair: Heather Haveman, Co-Chair: Maryam Vareth)
+
+
+###Session 5: Real World NLP (*Chair: Heather Haveman, Co-Chair: Maryam Vareth*)
 
 | Time      | Topic  | Speaker 
 |:----------|:-------|:--------|
@@ -158,9 +171,12 @@ Session 5: Real World NLP (Chair: Heather Haveman, Co-Chair: Maryam Vareth)
 | | Creating machine learning predictors from text | Julia Silge |
 | | Lessons learned building a real-world customer support virtual assistant for troubleshooting technical problems| Claudiu Branzan | 
 | | <span class="badge warning">Panel w/ Q&A</span> | All|
-| 2:15pm |  <span class="badge danger"> Break </span> |
+| 2:15pm |  <span class="badge danger"> Break </span> |  
+  
 
-Lightning Talks Session (Chair: Maryam Vareth, Co-Chair: Ciera Martinez)
+
+
+###Lightning Talks Session (*Chair: Maryam Vareth, Co-Chair: Ciera Martinez*)
 
 | Time      | Topic  | Speaker 
 |:----------|:-------|:--------|
@@ -174,13 +190,14 @@ Lightning Talks Session (Chair: Maryam Vareth, Co-Chair: Ciera Martinez)
 | | Identifying Depressive Subtypes  in Clinical Text: A Proof-of-Concept | Benson Kung |
 | | The Power of BERT in Understanding Clinical Notes | Dana Ludwig, M.D.|
 | | **Questions for lightening talks (10 min)**| |
-| 3:45pm | <span class="badge danger"> Social Hour: Lightning Talk Discussion, Networking and Mingling </span>  |
+| 3:45pm | <span class="badge danger"> Social Hour: Lightning Talk Discussion, Networking and Mingling </span>  |  
+   
+  
 
 
 ## <a id="day4">Day 4: Friday, December 6th (Collaboration)</a>
 
-Location: Virtual 
-Theme: **“Law and Society” Hackathon**
+###Theme: [**“Law and Society” Hackathon**](https://2020.textxd.org/post/hackathon/)
 
 | Time      | Topic  | Speaker|
 |:----------|:-------|:--------|

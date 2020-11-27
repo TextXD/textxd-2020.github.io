@@ -54,7 +54,7 @@ projects:
 math: true
 ---
 
-<center>* Session 1: Under-resourced Languages & Literature Speakers*</center>
+<center>**Session 1: Under-resourced Languages & Literature Speakers**</center>
 <html>
 <center><strong>Krister Lindén</strong></center>
 <img src="Krister-Linden.jpg"></img>
@@ -63,7 +63,7 @@ math: true
 <hr>
 <br>
 <center><strong>Matthew Lavin</Strong></center>
-<img src="Matthew-Lavin.jpg"></img>
+<img src="Matt-Lavin.jpg"></img>
 <p>Matthew J. Lavin is an Assistant Professor of Humanities Analytics in the Data Analytics Program at Denison University. He earned a PhD in English from the University of Iowa in 2012; a master’s degree in American studies at Utah State University in 2006; and a bachelor’s degree at St. Lawrence University in 2002. From 2012 to 2013, Lavin served as a Council on Library and Information Resources (CLIR) Postdoctoral Fellow at the University of Nebraska – Lincoln’s Center for Digital Research in the Humanities (CDRH). From 2013 to 2015, he was Associate Program Coordinator for the Andrew W. Mellon Foundation Initiative “Crossing Boundaries: Re-Envisioning the Humanities for the 21st Century” at St. Lawrence University. From 2015 to 2020, he was a Clinical Assistant Professor of English and Director of the Digital Media Lab at the University of Pittsburgh. Lavin’s scholarship focuses on the intersection of digital humanities, book history, and U.S. literature, in particular using large-scale computational text analysis methods to study 19th and 20th-century periodicals. His publications have appeared in Auto|Biography Studies, Cather Studies, CA: The Journal of Cultural Analytics, Digital Scholarship in the Humanities, The Programming Historian, and Studies in the Novel.
 </p>
 <br>
@@ -77,7 +77,7 @@ math: true
 <hr>
 <br>
 
-<center>* Session 2: NLP in the Social Sciences Speakers*</center>
+<center>**Session 2: NLP in the Social Sciences Speakers**</center>
 
 <center><strong>Ken Benoit</strong></center>
 <img src="Ken-Benoit.jpg"></img>
@@ -100,7 +100,7 @@ math: true
 <hr>
 <br>
 
-<center>* Session 3: NLP in Theory and Application Speakers*</center>
+<center>**Session 3: NLP in Theory and Application Speakers**</center>
 <center><strong>Rada Mihalcea</Strong></center>
 <img src="Rada-Mihalcea.jpg"></img>
 <p>Rada Mihalcea is a Professor of Computer Science and Engineering at the University of Michigan and the Director of the Michigan Artificial Intelligence Lab. Her research interests are in computational linguistics, with a focus on lexical semantics, multilingual natural language processing, and computational social sciences. She serves or has served on the editorial boards of the Journals of Computational Linguistics, Language Resources and Evaluations, Natural Language Engineering, Journal of Artificial Intelligence Research, IEEE Transactions on Affective Computing, and  Transactions of the Association for Computational Linguistics. She was a program co-chair for EMNLP 2009 and ACL 2011, and a general chair for NAACL 2015 and *SEM 2019. She currently serves as ACL Vice-President. She is the recipient of a Presidential Early Career Award for Scientists and Engineers awarded by President Obama (2009) and an ACM Fellow (2019). In 2013, she was made an honorary citizen of her hometown of Cluj-Napoca, Romania.
@@ -116,9 +116,9 @@ math: true
 <hr>
 <br>
 
-<center>* Session 4: Health & Life Sciences Speakers*</center>
+<center>**Session 4: Health & Life Sciences Speakers**</center>
 <center><strong>Nishitha Kambhaladinne</Strong></center>
-<img src="Nishitha Kambhaladinne.jpg"></img>
+<img src="Nishitha-Kambhaladinne.jpg"></img>
 <p>Nishitha Kambhaladinne is a data science analyst in Janssen, a pharmaceutical company of Johnson & Johnson. She is part of the Commercial Data Sciences and Data Management Team. Nishitha joined Janssen through the Technology Leadership Development Program where she completed her rotations in data science. In her role, she works on a diversified portfolio of projects including real world data analytics, machine learning to drive patient adherence and NLP pipelines. Nishitha holds a bachelor’s degree in Economics and Information Technology from Rutgers University. Prior to joining Janssen, she founded a B2C startup for small to medium scale businesses, which was sold in 2017.
 </p>
 <br>
@@ -148,7 +148,7 @@ math: true
 
 
 
-<center>* Session 5: Real World NLP Speakers*</center>
+<center>**Session 5: Real World NLP Speakers**</center>
 
 <center><strong>Ines Montani</strong></center>
 <img src="Ines-Montani.jpg"></img>
