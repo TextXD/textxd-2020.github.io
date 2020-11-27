@@ -1,11 +1,10 @@
 ---
-title: TextXD Speakers
+title: TextXD 2020 Speakers
 event: TextXD 2020
 event_url:
-authors:
-- Maryam Vareth
+authors: 'Maryam-Vareth'
 location: Berkeley, CA
-summary: Meet our distingulished speakers at TextXD.
+summary: Meet our distingulished speakers.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -14,7 +13,7 @@ date_end: "2020-12-12T18:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-11-28T00:00:00Z"
+publishDate: "2020-11-26T00:00:00Z"
 
 authors: []
 tags: []
