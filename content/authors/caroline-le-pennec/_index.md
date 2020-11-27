@@ -6,7 +6,7 @@ nameurl: https://sites.google.com/berkeley.edu/clpennec
 
 # Username (this should match the folder name)
 authors:
-- caroline
+- caroline-le-pennec
 
 # Is this the primary user of the site?
 superuser: false

@@ -6,7 +6,7 @@ nameurl: https://bids.berkeley.edu/people/ciera-martinez
 
 # Username (this should match the folder name)
 #authors:
-#- ciera
+#- ciera-martinez
 
 # Is this the primary user of the site?
 superuser: false

@@ -6,7 +6,7 @@ nameurl: https://dlab.berkeley.edu/people/ilya-akdemir
 
 # Username (this should match the folder name)
 authors:
-- ilya
+- ilya-akdemir
 
 # Is this the primary user of the site?
 superuser: false

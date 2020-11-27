@@ -2,7 +2,7 @@
 title: TextXD “Law and Society” Hackathon to focus on police misconduct and data analysis in support of public policy
 subtitle:
 summary:
-authors: [adam, ciera, maryam]
+authors: [adam-anderson, ciera-martinez, maryam-vareth]
 tags: []
 categories: []
 date: "2020-11-11T00:00:00Z"

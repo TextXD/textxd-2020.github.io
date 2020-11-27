@@ -6,10 +6,10 @@ nameurl: https://bids.berkeley.edu/people/maryam-vareth
 
 # Username (this should match the folder name)
 authors:
-- maryam
+- maryam-vareth
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: UC Berkeley - UCSF
@@ -17,7 +17,7 @@ role: UC Berkeley - UCSF
 # Organizations/Affiliations
 organizations:
 - name: UC Berkeley - UCSF
-  url: ""
+  url: "https://bids.berkeley.edu/people/maryam-vareth"
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -39,7 +39,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Program Committee
-
 - Researchers
 - Visitors
 ---

@@ -6,10 +6,10 @@ nameurl: https://violetyao.github.io/
 
 # Username (this should match the folder name)
 authors:
-- admin
+- violet-Yao
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: UC Berkeley

@@ -6,7 +6,7 @@ nameurl: https://bids.berkeley.edu/people/adam-g-anderson
 
 # Username (this should match the folder name)
 authors:
-- adam
+- adam-anderson
 
 # Is this the primary user of the site?
 superuser: false

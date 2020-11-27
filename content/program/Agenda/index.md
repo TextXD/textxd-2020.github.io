@@ -2,7 +2,7 @@
 title: TextXD 2020 Program
 event: TextXD 2020
 event_url:
-authors: 'maryam'
+authors: 
 location: Berkeley, CA
 summary: TextXD 2020 will take place Thursday Dec. 10 through Saturday Dec. 12 virtually.
 abstract:
@@ -78,35 +78,50 @@ math: true
 |:-------|:------|:---------|:---|
 | Day 1 | <a href="#day1">Thursday, Dec. 10</a> | Talks | Virtual |
 | Day 2 | <a href="#day2">Friday, Dec. 11</a> | Talks  | Virtual |
-| Day 3 | <a href="#day3">Saturday, Dec. 12</a> | Hackathon results and closing remarks | Virtual |
+| Day 3 | <a href="#day3">Saturday, Dec. 12</a> | Award Ceremony & Closing Remarks | Virtual |
 
-This year's conference will also feature a three-day (48 hour) “Law and Society” Hackathon on December 10-12. Participants will focus on analyzing text datasets from investigative reporting on the subject of police (mis)conduct. 
+This year's conference will also feature a **three-day (48 hour) “Law and Society” Hackathon** on December 10-12. Participants will focus on analyzing text datasets from investigative reporting on the subject of police (mis)conduct. 
 
 ## <a id="day2">Day 1: Thursday, December 10th (Talks)</a>
 
-Location: Virtual
+Session 1: Under-resourced Languages & Literature (Chair: Niek Veldhuis & Co-Chair: Ciera Martinez)
 
-| Time (PT) | Topic  | Speaker/Chairs |
+| Time(PT)| Topic  | Speaker |
 |:----------|:-------|:--------|
 | 11:00am | Welcome and Introduction | Heather Haveman & Niek Veldhuis |
-| 11:30am | <span class="badge warning">Session 1: Under-resourced Languages & Literature</span> | Niek Veldhuis & Ciera Martinez|
+| 11:30am | **Session 1: Under-resourced Languages & Literature** | |
 | | Building a portal for exploring social group identities and semantic domains in under-resourced languages | Krister Lindén |
 | | Etaoin ... Shrdlu ... Cmfwyp? In Search of Lexical Networks and Cul-de-Sac Words | Matt Lavin | 
 | | LitBank: Born-Literary Natural Language Processing| David Bamman| 
-| | <span class="badge success">Panel w/ Q&A</span> | All|
+| | <span class="badge warning">Panel w/ Q&A</span> | All|
 | 12:45pm | <span class="badge danger"> Break </span> |
-| 1:00pm | <span class="badge warning">Session 2: NLP in the Social Sciences</span> | Heather Haveman & Maryam Vareth |
+
+Session 2: NLP in the Social Sciences (Chair: Heather Haveman & Co-Chair: Maryam Vareth)
+
+| Time(PT)| Topic  | Speaker |
+|:----------|:-------|:--------|
+| 1:00pm | **Session 2: NLP in the Social Sciences**
 | | Beyond Bag-of-Words: Detecting and Using Meaningful Multi-word Expressions | Ken Benoit | 
 | | Faceted Rasch scaling and multitask deep learning for debiased, explainable, continuous measurement of hate speech | Chris Kennedy |
 | | And the Rest is History | Laura Nelson | 
-| | <span class="badge success">Panel w/ Q&A</span> | All|
+| | <span class="badge warning">Panel w/ Q&A</span> | All|
 | 2:15pm | <span class="badge danger"> Break </span> |
-| 2:20pm | <span class="badge warning">Session 3:  NLP in Theory and Application</span> | Niek Veldhuis & Ciera Martinez |
+
+Session 3:  NLP in Theory and Application (Chair: Niek Veldhuis, Co-Chair: Ciera Martinez) 
+
+| Time(PT)| Topic  | Speaker |
+|:----------|:-------|:--------|
+| 2:20pm | **Session 3:  NLP in Theory and Application** |
 | | Moving Away from One-Size-Fits-All Language Representations | Rada Mihalcea | 
-| | Sure, transformers are cool... but have you tried rules? | Rada Mihalcea | 
-| | <span class="badge success">Panel w/ Q&A</span> | All|
+| | Sure, transformers are cool... but have you tried rules? | Rada Mihalcea|
+| | <span class="badge warning">Panel w/ Q&A</span> | All|
 | 3:30pm | <span class="badge danger"> Break </span> |
-| 3:45pm | <span class="badge warning">Lightning Talks Session 1</span> | Ciera Martinez |
+
+Lightning Talks Session 1 (Chair: Ciera Martinez, Co-Chair: Maryam Vareth)
+
+| Time(PT)| Topic  | Speaker |
+|:----------|:-------|:--------|
+| 3:45pm | **Lightning Talks Session 1** | 
 | | Legal Literacies for Text Data Mining | Rachael Samberg, Stacy Reardon, and Tim Vollmer |
 | | Decentralization of Gendered Language in Portuguese | David Harrison |
 | | Language is a Domain: Use the Bender Rule | Quinn Dombrowski |
@@ -122,24 +137,34 @@ Location: Virtual
 
 ## <a id="day3">Day 2: Friday, December 11th (Talks)</a>
 
-Location: Virtual
+Session 4: Health & Life Sciences (Chair: Anobel Odisho, Co-Chair: Maryam Vareth)
 
-| Time      | Topic  | Speaker | Institution |
-|:----------|:-------|:--------|:------------|
+| Time      | Topic  | Speaker 
+|:----------|:-------|:--------|
 | 11:00am | Welcome and Introduction | Heather Haveman & Niek Veldhuis |
-| 11:35am | <span class="badge warning">Session 4: Health & Life Sciences </span> | Anobel Odisho & Maryam Vareth|
+| 11:35am | **Session 4: Health & Life Sciences </span> | 
 | | Leveraging multi-language word embedding to improve document searches | Nishitha Kambhaladinne, Jenna Eun|
 | | Interpretability in clinical text mining | Irena Spasic |
 | | Conversation summarization: a neural-symbolic linguistic pipeline architecture for medical reporting | Sjaak Brinkkemper |
-| | <span class="badge success">Panel w/ Q&A</span> | All|
+| | <span class="badge warning">Panel w/ Q&A</span> | All|
 | 12:45pm | <span class="badge danger"> Break </span> |
-| 1:00pm | <span class="badge warning">Session 5: Real World NLP </span> | Heather Haveman & Maryam Vareth|
+
+Session 5: Real World NLP (Chair: Heather Haveman, Co-Chair: Maryam Vareth)
+
+| Time      | Topic  | Speaker 
+|:----------|:-------|:--------|
+| 1:00pm | **Session 5: Real World NLP** |
 | | Designing Practical NLP Solutions | Ines Montani  |
 | | Creating machine learning predictors from text | Julia Silge |
 | | Lessons learned building a real-world customer support virtual assistant for troubleshooting technical problems| Claudiu Branzan | 
-| | <span class="badge success">Panel w/ Q&A</span> | All|
+| | <span class="badge warning">Panel w/ Q&A</span> | All|
 | 2:15pm |  <span class="badge danger"> Break </span> |
-| 2:30pm | <span class="badge warning">Lightning Talks Session 2</span> | Maryam Vareth |
+
+Lightning Talks Session (Chair: Maryam Vareth, Co-Chair: Ciera Martinez)
+
+| Time      | Topic  | Speaker 
+|:----------|:-------|:--------|
+| 2:30pm |**Lightning Talks Session 2** |
 | | Exploring the ethical and social science considerations of pandemic response efforts| Bogdana Rakova |
 | | MARMOT: A Deep Learning Framework for Constructing Multimodal Representations for Vision-and-Language Tasks | Patrick Y. Wu |
 | | Neural Transfer Learning for Social Science Text Analysis | Sandra Wankmüller |

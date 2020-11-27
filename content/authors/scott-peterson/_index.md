@@ -6,7 +6,7 @@ nameurl: https://dlab.berkeley.edu/people/scott-peterson
 
 # Username (this should match the folder name)
 authors:
-- scott
+- scott-peterson
 
 # Is this the primary user of the site?
 superuser: false
