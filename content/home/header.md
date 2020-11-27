@@ -79,13 +79,13 @@ width: 50%;
     </div>
   </div>
 </div>
-<!-- <br>
-<p class="text-center white-font font-weight-500" style="font-weight: bold">The Conference Program will be available early December.</p>
-<br>> -->
+<br>
+<!-- <p class="text-center white-font font-weight-500" style="font-weight: bold">The Conference Program will be available early December.</p> -->
+<br>> 
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <a href="#program#agenda" type="button" class="btn btn btn-secondary">View the Program </a>
+      <a href="program/agenda" type="button" class="btn btn-outline-light">View the Program </a>
     </div>
   </div>
 </div>
@@ -93,7 +93,7 @@ width: 50%;
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <a href="#posts#hackathon" type="button" class="btn btn btn-secondary">Interested to hack with a purpose? <br> Learn more ... </a>
+      <a href="posts/hackathon" type="button" class="btn btn btn-secondary">Interested to hack with a purpose? <br> Learn more ... </a>
     </div>
   </div>
 </div>

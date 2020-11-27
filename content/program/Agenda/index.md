@@ -1,5 +1,5 @@
 ---
-title: TextXD 2020 Program
+title: TextXD 2020 Agenda
 event: TextXD 2020
 event_url:
 authors: 
@@ -84,7 +84,7 @@ This year's conference will also feature a **three-day (48 hour) “Law and Soci
    
 
 
-          
+
 ## <a id="day1">Day 1: Thursday, December 10th (Talks)</a>
 
 ### Session 1: Under-resourced Languages & Literature (*Chair: Niek Veldhuis, Co-Chair: Ciera Martinez*)
