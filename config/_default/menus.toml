@@ -14,24 +14,25 @@
   weight = 20
 
 [[main]]
+  name = "Program"
+  url = "#2020"
+  weight = 21
+
+[[main]]
   name = "Submission"
   url = "#submission"
-  weight = 21
+  weight = 22
 
 [[main]]
   name = "Hackathon"
   url = "#hackathon"
-  weight = 22
+  weight = 23
 
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 23
+  weight = 24
 
-[[main]]
-  name = "Program"
-  url = "#2020"
-  weight = 30
 
 [[main]]
   name = "Past Events"
