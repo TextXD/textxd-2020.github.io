@@ -83,6 +83,7 @@ math: true
 This year's conference will also feature a three-day (48 hour) [**“Law and Society” Hackathon**](https://2020.textxd.org/post/hackathon/) on December 10-12. Participants will focus on analyzing text datasets from investigative reporting on the subject of police (mis)conduct.  
 
 &nbsp;
+&nbsp;
       
 ## <a id="day1">Day 1: Thursday, December 10th (Talks)</a>
 
@@ -147,6 +148,7 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 | 4:45pm| <span class="badge danger"> Social Hour: Lightning Talk Discussion, Networking and Mingling </span>  |  
   
 &nbsp;
+&nbsp;
 
 ## <a id="day2">Day 2: Friday, December 11th (Talks)</a>
 
@@ -197,6 +199,7 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 | 3:45pm | <span class="badge danger"> Social Hour: Lightning Talk Discussion, Networking and Mingling </span>  |  
    
   
+&nbsp;
 &nbsp;
 
 
