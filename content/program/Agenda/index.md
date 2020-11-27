@@ -80,11 +80,10 @@ math: true
 | Day 2 | <a href="#day2">Friday, Dec. 11</a> | Talks  | Virtual |
 | Day 3 | <a href="#day3">Saturday, Dec. 12</a> | Award Ceremony & Closing Remarks | Virtual |
 
-This year's conference will also feature a three-day (48 hour) [**“Law and Society” Hackathon**](https://2020.textxd.org/post/hackathon/) on December 10-12. Participants will focus on analyzing text datasets from investigative reporting on the subject of police (mis)conduct.   
-   
+This year's conference will also feature a three-day (48 hour) [**“Law and Society” Hackathon**](https://2020.textxd.org/post/hackathon/) on December 10-12. Participants will focus on analyzing text datasets from investigative reporting on the subject of police (mis)conduct.  
 
-
-
+&nbsp;
+      
 ## <a id="day1">Day 1: Thursday, December 10th (Talks)</a>
 
 ### Session 1: Under-resourced Languages & Literature 
@@ -147,7 +146,7 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 | | **Questions for lightening talks (10 min)** | |
 | 4:45pm| <span class="badge danger"> Social Hour: Lightning Talk Discussion, Networking and Mingling </span>  |  
   
-
+&nbsp;
 
 ## <a id="day2">Day 2: Friday, December 11th (Talks)</a>
 
@@ -164,7 +163,6 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 | | <span class="badge warning">Panel w/ Q&A</span> | All|
 | 12:45pm | <span class="badge danger"> Break </span> |  
   
-
 
 
 ### Session 5: Real World NLP 
@@ -199,6 +197,7 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 | 3:45pm | <span class="badge danger"> Social Hour: Lightning Talk Discussion, Networking and Mingling </span>  |  
    
   
+&nbsp;
 
 
 ## <a id="day3">Day 3: Friday, December 6th (Collaboration)</a>

@@ -85,7 +85,7 @@ width: 50%;
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <a href="program/agenda" type="button" class="btn btn-outline-light">View the 2020 Agenda </a>
+      <a href="program/agenda" type="button" class="btn btn-outline-light">View the Agenda </a>
     </div>
   </div>
 </div>
