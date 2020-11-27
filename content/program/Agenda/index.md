@@ -80,14 +80,14 @@ math: true
 | Day 2 | <a href="#day2">Friday, Dec. 11</a> | Talks  | Virtual |
 | Day 3 | <a href="#day3">Saturday, Dec. 12</a> | Award Ceremony & Closing Remarks | Virtual |
 
-This year's conference will also feature a **three-day (48 hour) “Law and Society” Hackathon** on December 10-12. Participants will focus on analyzing text datasets from investigative reporting on the subject of police (mis)conduct.  
-  
+This year's conference will also feature a **three-day (48 hour) “Law and Society” Hackathon** on December 10-12. Participants will focus on analyzing text datasets from investigative reporting on the subject of police (mis)conduct.   
+   
 
 
+          
+## <a id="day1">Day 1: Thursday, December 10th (Talks)</a>
 
-## <a id="day2">Day 1: Thursday, December 10th (Talks)</a>
-
-###Session 1: Under-resourced Languages & Literature (*Chair: Niek Veldhuis, Co-Chair: Ciera Martinez*)
+### Session 1: Under-resourced Languages & Literature (*Chair: Niek Veldhuis, Co-Chair: Ciera Martinez*)
 
 | Time(PT)| Topic  | Speaker |
 |:----------|:-------|:--------|
@@ -101,7 +101,7 @@ This year's conference will also feature a **three-day (48 hour) “Law and Soci
   
 
 
-###Session 2: NLP in the Social Sciences (*Chair: Heather Haveman, Co-Chair: Maryam Vareth*)
+### Session 2: NLP in the Social Sciences (*Chair: Heather Haveman, Co-Chair: Maryam Vareth*)
 
 | Time(PT)| Topic  | Speaker |
 |:----------|:-------|:--------|
@@ -114,7 +114,7 @@ This year's conference will also feature a **three-day (48 hour) “Law and Soci
   
 
 
-###Session 3:  NLP in Theory and Application (*Chair: Niek Veldhuis, Co-Chair: Ciera Martinez*) 
+### Session 3:  NLP in Theory and Application (*Chair: Niek Veldhuis, Co-Chair: Ciera Martinez*) 
 
 | Time(PT)| Topic  | Speaker |
 |:----------|:-------|:--------|
@@ -126,7 +126,7 @@ This year's conference will also feature a **three-day (48 hour) “Law and Soci
   
 
 
-###Lightning Talks Session 1 (*Chair: Ciera Martinez, Co-Chair: Maryam Vareth*)
+### Lightning Talks Session 1 (*Chair: Ciera Martinez, Co-Chair: Maryam Vareth*)
 
 | Time(PT)| Topic  | Speaker |
 |:----------|:-------|:--------|
@@ -145,9 +145,9 @@ This year's conference will also feature a **three-day (48 hour) “Law and Soci
   
 
 
-## <a id="day3">Day 2: Friday, December 11th (Talks)</a>
+## <a id="day2">Day 2: Friday, December 11th (Talks)</a>
 
-###Session 4: Health & Life Sciences (*Chair: Anobel Odisho, Co-Chair: Maryam Vareth*)
+### Session 4: Health & Life Sciences (*Chair: Anobel Odisho, Co-Chair: Maryam Vareth*)
 
 | Time      | Topic  | Speaker 
 |:----------|:-------|:--------|
@@ -162,7 +162,7 @@ This year's conference will also feature a **three-day (48 hour) “Law and Soci
 
 
 
-###Session 5: Real World NLP (*Chair: Heather Haveman, Co-Chair: Maryam Vareth*)
+### Session 5: Real World NLP (*Chair: Heather Haveman, Co-Chair: Maryam Vareth*)
 
 | Time      | Topic  | Speaker 
 |:----------|:-------|:--------|
@@ -172,11 +172,10 @@ This year's conference will also feature a **three-day (48 hour) “Law and Soci
 | | Lessons learned building a real-world customer support virtual assistant for troubleshooting technical problems| Claudiu Branzan | 
 | | <span class="badge warning">Panel w/ Q&A</span> | All|
 | 2:15pm |  <span class="badge danger"> Break </span> |  
-  
+ 
 
 
-
-###Lightning Talks Session (*Chair: Maryam Vareth, Co-Chair: Ciera Martinez*)
+### Lightning Talks Session (*Chair: Maryam Vareth, Co-Chair: Ciera Martinez*)
 
 | Time      | Topic  | Speaker 
 |:----------|:-------|:--------|
@@ -195,9 +194,9 @@ This year's conference will also feature a **three-day (48 hour) “Law and Soci
   
 
 
-## <a id="day4">Day 4: Friday, December 6th (Collaboration)</a>
+## <a id="day3">Day 3: Friday, December 6th (Collaboration)</a>
 
-###Theme: [**“Law and Society” Hackathon**](https://2020.textxd.org/post/hackathon/)
+### Theme: [**“Law and Society” Hackathon**](https://2020.textxd.org/post/hackathon/)
 
 | Time      | Topic  | Speaker|
 |:----------|:-------|:--------|
