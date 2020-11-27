@@ -158,7 +158,7 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 | Time      | Topic  | Speaker 
 |:----------|:-------|:--------|
 | 11:00am | Welcome and Introduction | Heather Haveman & Niek Veldhuis |
-| 11:35am | **Session 4: Health & Life Sciences </span> | 
+| 11:35am | **Session 4: Health & Life Sciences**| 
 | | Leveraging multi-language word embedding to improve document searches | Nishitha Kambhaladinne, Jenna Eun|
 | | Interpretability in clinical text mining | Irena Spasic |
 | | Conversation summarization: a neural-symbolic linguistic pipeline architecture for medical reporting | Sjaak Brinkkemper |
