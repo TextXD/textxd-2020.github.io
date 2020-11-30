@@ -95,8 +95,8 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 | 11:00am | Welcome and Introduction | Heather Haveman & Niek Veldhuis |
 | 11:30am | **Session 1: Under-resourced Languages & Literature** | |
 | | Building a portal for exploring social group identities and semantic domains in under-resourced languages | [Krister Lindén](https://www.textxd.org/program/speakers/#Krister) |
-| | Etaoin ... Shrdlu ... Cmfwyp? In Search of Lexical Networks and Cul-de-Sac Words | Matt Lavin | 
-| | LitBank: Born-Literary Natural Language Processing| David Bamman| 
+| | Etaoin ... Shrdlu ... Cmfwyp? In Search of Lexical Networks and Cul-de-Sac Words | [Matt Lavin](https://www.textxd.org/program/speakers/#Matthew) | 
+| | LitBank: Born-Literary Natural Language Processing| [David Bamman](https://www.textxd.org/program/speakers/#David)| 
 | | <span class="badge warning">Panel w/ Q&A</span> | All|
 | 12:45pm | <span class="badge danger"> Break </span> |  
   
@@ -108,9 +108,9 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 | Time(PT)| Topic  | Speaker |
 |:----------|:-------|:--------|
 | 1:00pm | **Session 2: NLP in the Social Sciences**
-| | Beyond Bag-of-Words: Detecting and Using Meaningful Multi-word Expressions | Ken Benoit | 
-| | Faceted Rasch scaling and multitask deep learning for debiased, explainable, continuous measurement of hate speech | Chris Kennedy |
-| | And the Rest is History | Laura Nelson | 
+| | Beyond Bag-of-Words: Detecting and Using Meaningful Multi-word Expressions | [Ken Benoit](https://www.textxd.org/program/speakers/#Ken) | 
+| | Faceted Rasch scaling and multitask deep learning for debiased, explainable, continuous measurement of hate speech | [Chris Kennedy](https://www.textxd.org/program/speakers/#Chris) |
+| | And the Rest is History | [Laura Nelson](https://www.textxd.org/program/speakers/#Laura) | 
 | | <span class="badge warning">Panel w/ Q&A</span> | All|
 | 2:15pm | <span class="badge danger"> Break </span> |  
   
@@ -122,8 +122,8 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 | Time(PT)| Topic  | Speaker |
 |:----------|:-------|:--------|
 | 2:20pm | **Session 3:  NLP in Theory and Application** |
-| | Moving Away from One-Size-Fits-All Language Representations | Rada Mihalcea | 
-| | Sure, transformers are cool... but have you tried rules? | Rada Mihalcea|
+| | Moving Away from One-Size-Fits-All Language Representations | [Rada Mihalcea](https://www.textxd.org/program/speakers/#Rada) | 
+| | Sure, transformers are cool... but have you tried rules? | [Rachael Tatman](https://www.textxd.org/program/speakers/#Rachael)|
 | | <span class="badge warning">Panel w/ Q&A</span> | All|
 | 3:30pm | <span class="badge danger"> Break </span> |  
   
