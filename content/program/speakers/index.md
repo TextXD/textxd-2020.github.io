@@ -56,7 +56,6 @@ math: true
 
 <center>**Session 1: Under-resourced Languages & Literature Speakers**</center>
 <html>
-<a href="#Kirster">test link</a>
 
 <center><strong id="Krister">Krister Lindén</strong></center>
 <img src="Krister-Linden.jpg"></img>

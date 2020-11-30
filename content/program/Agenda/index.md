@@ -94,7 +94,7 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 |:----------|:-------|:--------|
 | 11:00am | Welcome and Introduction | Heather Haveman & Niek Veldhuis |
 | 11:30am | **Session 1: Under-resourced Languages & Literature** | |
-| | Building a portal for exploring social group identities and semantic domains in under-resourced languages | Krister Lindén |
+| | Building a portal for exploring social group identities and semantic domains in under-resourced languages | [Krister Lindén](https://www.textxd.org/program/speakers/#Kirster) |
 | | Etaoin ... Shrdlu ... Cmfwyp? In Search of Lexical Networks and Cul-de-Sac Words | Matt Lavin | 
 | | LitBank: Born-Literary Natural Language Processing| David Bamman| 
 | | <span class="badge warning">Panel w/ Q&A</span> | All|
