@@ -56,7 +56,9 @@ math: true
 
 <center>**Session 1: Under-resourced Languages & Literature Speakers**</center>
 <html>
-<center><strong>Krister Lindén</strong></center>
+<a href="#Kirster">test link</a>
+
+<center><strong id="Krister">Krister Lindén</strong></center>
 <img src="Krister-Linden.jpg"></img>
 <p>Research Director Krister Lindén has a PhD in Language Technology. He is at the Department of Digital Humanities of the University of Helsinki in Finland. Lindén has directed a number of research projects and is Vice-Team Leader of the Center of Excellence in Ancient Near Eastern Empires. In addition to having developed software for processing resources for the various languages, he has published more than 130 peer-reviewed scientific publications.</p>
 <br>
