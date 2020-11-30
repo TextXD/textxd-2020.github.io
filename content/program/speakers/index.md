@@ -118,7 +118,7 @@ math: true
 <br>
 
 <center>**Session 4: Health & Life Sciences Speakers**</center>
-<center><strong>Nishitha Kambhaladinne</Strong></center>
+<center><strong id="Nishitha">Nishitha Kambhaladinne</Strong></center>
 <img src="Nishitha-Kambhaladinne.jpg"></img>
 <p>Nishitha Kambhaladinne is a data science analyst in Janssen, a pharmaceutical company of Johnson & Johnson. She is part of the Commercial Data Sciences and Data Management Team. Nishitha joined Janssen through the Technology Leadership Development Program where she completed her rotations in data science. In her role, she works on a diversified portfolio of projects including real world data analytics, machine learning to drive patient adherence and NLP pipelines. Nishitha holds a bachelor’s degree in Economics and Information Technology from Rutgers University. Prior to joining Janssen, she founded a B2C startup for small to medium scale businesses, which was sold in 2017.
 </p>
