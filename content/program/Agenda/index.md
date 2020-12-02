@@ -158,12 +158,12 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 | Time      | Topic  | Speaker 
 |:----------|:-------|:--------|
 | 11:00am | Welcome and Introduction | Heather Haveman & Niek Veldhuis |
-| 11:35am | **Session 4: Health & Life Sciences**| 
+| 11:10am | **Session 4: Health & Life Sciences**| 
 | | Leveraging multi-language word embedding to improve document searches | [Nishitha Kambhaladinne](https://www.textxd.org/program/speakers/#Nishitha), Jenna Eun|
 | | Interpretability in clinical text mining | [Irena Spasic](https://www.textxd.org/program/speakers/#Irena) |
 | | Conversation summarization: a neural-symbolic linguistic pipeline architecture for medical reporting | [Sjaak Brinkkemper](https://www.textxd.org/program/speakers/#Sjaak) |
 | | <span class="badge warning">Panel w/ Q&A</span> | All|
-| 12:45pm | <span class="badge danger"> Break </span> |  
+| 12:30pm | <span class="badge danger"> Break </span> |  
   
 
 
