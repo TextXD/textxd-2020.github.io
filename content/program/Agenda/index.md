@@ -139,12 +139,12 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 | | Decentralization of Gendered Language in Portuguese | David Harrison |
 | | Language is a Domain: Use the Bender Rule | Quinn Dombrowski |
 | | What can rappers teach your kids? Topic modeling of the Russian hip-hop stage| Anton Boichenko, Svetlana Zhuchkova |
-| | **Questions for lightening talks (10 min)**| |
+| | **Questions for lightning talks (10 min)**| |
 | | The Characterization of China in two thousand Early Modern English books| Zhonghua Wang |
 | | comp-syn: Perceptually Grounded Word Embeddings with Color| Douglas Guilbeault |
 | | Mining Narratives from Large Text Corpora| Elliott Ash |
 | | Keyword Assisted Topic Models| Shusei Eshima, Kosuke Imai, and Tomoya Sasaki|
-| | **Questions for lightening talks (10 min)** | |
+| | **Questions for lightning talks (10 min)** | |
 | 4:45pm| <span class="badge danger"> Social Hour: Lightning Talk Discussion, Networking and Mingling </span>  |  
   
 &nbsp;
@@ -191,11 +191,11 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 | | MARMOT: A Deep Learning Framework for Constructing Multimodal Representations for Vision-and-Language Tasks | Patrick Y. Wu |
 | | Neural Transfer Learning for Social Science Text Analysis | Sandra Wankmüller |
 | | Public Editor: Vetting the News Together| Nick Adams |
-| | **Questions for lightening talks (10 min)**| |
+| | **Questions for lightning talks (10 min)**| |
 | | Constructing Discreditable Identities | Gabriel Varela |
 | | Identifying Depressive Subtypes  in Clinical Text: A Proof-of-Concept | Benson Kung |
 | | The Power of BERT in Understanding Clinical Notes | Dana Ludwig, M.D.|
-| | **Questions for lightening talks (10 min)**| |
+| | **Questions for lightning talks (10 min)**| |
 | 3:45pm | <span class="badge danger"> Social Hour: Lightning Talk Discussion, Networking and Mingling </span>  |  
    
   
@@ -203,7 +203,7 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 &nbsp;
 
 
-## <a id="day3">Day 3: Friday, December 6th (Collaboration)</a>
+## <a id="day3">Day 3: Saturday, December 12th (Collaboration)</a>
 
 ### Theme: [**“Law and Society” Hackathon**](https://2020.textxd.org/post/hackathon/)
 
