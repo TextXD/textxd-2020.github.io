@@ -88,7 +88,7 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 ## <a id="day1">Day 1: Thursday, December 10th (Talks)</a>
 
 ### Session 1: Under-resourced Languages & Literature 
-#### (*Chair: Niek Veldhuis, Co-Chair: Ciera Martinez*)
+#### (*Chair: Niek Veldhuis, Crew: Ciera Martinez*)
 
 | Time(PT)| Topic  | Speaker |
 |:----------|:-------|:--------|
@@ -103,7 +103,7 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 
 
 ### Session 2: NLP in the Social Sciences 
-#### (*Chair: Heather Haveman, Co-Chair: Maryam Vareth*)
+#### (*Chair: Heather Haveman, Crew: Maryam Vareth*)
 
 | Time(PT)| Topic  | Speaker |
 |:----------|:-------|:--------|
@@ -117,11 +117,11 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 
 
 ### Session 3:  NLP in Theory and Application 
-#### (*Chair: Niek Veldhuis, Co-Chair: Ciera Martinez*) 
+#### (*Chair: Niek Veldhuis, Crew: Ciera Martinez*) 
 
 | Time(PT)| Topic  | Speaker |
 |:----------|:-------|:--------|
-| 2:20pm | **Session 3:  NLP in Theory and Application** |
+| 2:30pm | **Session 3:  NLP in Theory and Application** |
 | | Moving Away from One-Size-Fits-All Language Representations | [Rada Mihalcea](https://www.textxd.org/program/speakers/#Rada) | 
 | | Sure, transformers are cool... but have you tried rules? | [Rachael Tatman](https://www.textxd.org/program/speakers/#Rachael)|
 | | <span class="badge warning">Panel w/ Q&A</span> | All|
@@ -130,7 +130,7 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 
 
 ### Lightning Talks Session 1 
-#### (*Chair: Ciera Martinez, Co-Chair: Maryam Vareth*)
+#### (*Chair: Ciera Martinez, Crew: Maryam Vareth*)
 
 | Time(PT)| Topic  | Speaker |
 |:----------|:-------|:--------|
@@ -153,7 +153,7 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 ## <a id="day2">Day 2: Friday, December 11th (Talks)</a>
 
 ### Session 4: Health & Life Sciences 
-#### (*Chair: Anobel Odisho, Co-Chair: Maryam Vareth*)
+#### (*Chair: Anobel Odisho, Crew: Maryam Vareth*)
 
 | Time      | Topic  | Speaker 
 |:----------|:-------|:--------|
@@ -168,7 +168,7 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 
 
 ### Session 5: Real World NLP 
-#### (*Chair: Heather Haveman, Co-Chair: Maryam Vareth*)
+#### (*Chair: Heather Haveman, Crew: Maryam Vareth*)
 
 | Time      | Topic  | Speaker 
 |:----------|:-------|:--------|
@@ -182,11 +182,11 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 
 
 ### Lightning Talks Session 
-#### (*Chair: Maryam Vareth, Co-Chair: Ciera Martinez*)
+#### (*Chair: Maryam Vareth, Crew: Ciera Martinez*)
 
 | Time      | Topic  | Speaker 
 |:----------|:-------|:--------|
-| 2:30pm |**Lightning Talks Session 2** |
+| 2:00pm |**Lightning Talks Session 2** |
 | | Exploring the ethical and social science considerations of pandemic response efforts| Bogdana Rakova |
 | | MARMOT: A Deep Learning Framework for Constructing Multimodal Representations for Vision-and-Language Tasks | Patrick Y. Wu |
 | | Neural Transfer Learning for Social Science Text Analysis | Sandra Wankmüller |
