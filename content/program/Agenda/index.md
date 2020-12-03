@@ -186,7 +186,7 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 
 | Time      | Topic  | Speaker 
 |:----------|:-------|:--------|
-| 2:00pm |**Lightning Talks Session 2** |
+| 2:30pm |**Lightning Talks Session 2** |
 | | Exploring the ethical and social science considerations of pandemic response efforts| Bogdana Rakova |
 | | MARMOT: A Deep Learning Framework for Constructing Multimodal Representations for Vision-and-Language Tasks | Patrick Y. Wu |
 | | Neural Transfer Learning for Social Science Text Analysis | Sandra Wankmüller |
