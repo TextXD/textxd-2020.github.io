@@ -75,7 +75,7 @@ width: 50%;
 <div class="container">
   <div class="row">
     <div class="col text-center">
-    <a href="https://www.eventbrite.com/e/textxd-text-analysis-across-domains-2020-registration-123743043775?aff=odeimcmailchimp&mc_cid=d85ef03802&mc_eid=[UNIQID]" type="button" class="btn btn-outline-light btn-lg">Register Now</a>
+    <a href="https://berkeley.zoom.us/webinar/register/WN_uPdQfKKVSkeadE4xm1q2Og">Register Now</a>
     </div>
   </div>
 </div>
