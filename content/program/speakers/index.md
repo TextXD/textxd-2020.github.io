@@ -4,7 +4,7 @@ event: TextXD 2020
 event_url:
 authors: 'maryam'
 location: Berkeley, CA
-summary: Meet our distingulished speakers.
+summary: Meet our distinguished speakers.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
