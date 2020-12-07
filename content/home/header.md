@@ -75,7 +75,7 @@ width: 50%;
 <div class="container">
   <div class="row">
     <div class="col text-center">
-    <a href="https://berkeley.zoom.us/webinar/register/WN_uPdQfKKVSkeadE4xm1q2Og">Register Now</a>
+    <a href="https://berkeley.zoom.us/webinar/register/WN_uPdQfKKVSkeadE4xm1q2Og" type="button" class="btn btn-outline-light btn-lg">Register Now</a>
     </div>
   </div>
 </div>
