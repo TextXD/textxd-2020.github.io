@@ -86,14 +86,8 @@ width: 50%;
   <div class="row">
     <div class="col text-center">
       <a href="program/agenda" type="button" class="btn btn-outline-light">Agenda</a>
-
-  <div class="col text-center">
       <a href="program/speakers" type="button" class="btn btn-outline-light">Meet the Speakers</a>
-    </div>
-
-  <div class="col text-center">
       <a href="https://live.remo.co/e/textxd-social-hour" type="button" class="btn btn-outline-light">Social Hour</a>
-  </div>
     </div>
   </div>
 </div>
