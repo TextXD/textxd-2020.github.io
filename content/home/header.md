@@ -75,7 +75,7 @@ width: 50%;
 <div class="container">
   <div class="row">
     <div class="col text-center">
-    <a href="https://berkeley.zoom.us/webinar/register/WN_uPdQfKKVSkeadE4xm1q2Og" type="button" class="btn btn-outline-light btn-lg">Register Now</a>
+    <a href="https://berkeley.zoom.us/webinar/register/WN_uPdQfKKVSkeadE4xm1q2Og" type="button" class="btn btn-outline-light btn-lg">Webinar</a>
     </div>
   </div>
 </div>
@@ -85,7 +85,7 @@ width: 50%;
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <a href="program/agenda" type="button" class="btn btn-outline-light">View the Agenda </a>
+      <a href="program/agenda" type="button" class="btn btn-outline-light">Agenda</a>
     </div>
   </div>
 </div>
@@ -101,10 +101,17 @@ width: 50%;
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <a href="post/hackathon" type="button" class="btn btn btn-secondary">Interested to hack with a purpose? <br> Learn more ... </a>
+      <a href="https://live.remo.co/e/textxd-social-hour" type="button" class="btn btn-outline-light">Social Hour</a>
     </div>
   </div>
 </div>
+<!-- <div class="container">
+  <div class="row">
+    <div class="col text-center">
+      <a href="post/hackathon" type="button" class="btn btn btn-secondary">Interested to hack with a purpose? <br> Learn more ... </a>
+    </div>
+  </div>
+</div> -->
 <ul style="list-style-type:disc; margin-bottom: 0">
 <!--<li><a href="/call-for-submissions">Call for Submissions</a>: submit an abstract by Friday, September 20</li>-->
 <!-- <li> <a href="/2019/program/">View the program</a></li>
