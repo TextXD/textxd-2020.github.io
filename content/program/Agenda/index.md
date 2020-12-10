@@ -145,7 +145,7 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 | | Mining Narratives from Large Text Corpora| Elliott Ash |
 | | Keyword Assisted Topic Models| Shusei Eshima, Kosuke Imai, and Tomoya Sasaki|
 | | **Questions for lightning talks (10 min)** | |
-| 4:45pm| <span class="badge danger"> Social Hour: Lightning Talk Discussion, Networking and Mingling </span>  |  
+| 4:45pm| <span class="badge danger"> Social Hour: Lightning Talk Discussion, Networking and Mingling </span>  | [Remo Link](https://live.remo.co/e/textxd-social-hour) |
   
 &nbsp;
 &nbsp;
@@ -196,7 +196,7 @@ This year's conference will also feature a three-day (48 hour) [**“Law and Soc
 | | Identifying Depressive Subtypes  in Clinical Text: A Proof-of-Concept | Benson Kung |
 | | The Power of BERT in Understanding Clinical Notes | Dana Ludwig, M.D.|
 | | **Questions for lightning talks (10 min)**| |
-| 3:45pm | <span class="badge danger"> Social Hour: Lightning Talk Discussion, Networking and Mingling </span>  |  
+| 3:45pm | <span class="badge danger"> Social Hour: Lightning Talk Discussion, Networking and Mingling </span>  |  [Remo Link](https://live.remo.co/e/textxd-social-hour) |
    
   
 &nbsp;
