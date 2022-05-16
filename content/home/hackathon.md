@@ -21,7 +21,7 @@ subtitle = ""
 +++
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-This year TextXD conference will feature a three-day (48 hour) [**“Law and Society” Hackathon**](https://2020.textxd.org/post/hackathon/) on December 10-12. Participants will focus on analyzing text datasets from investigative reporting on the subject of police (mis)conduct.
+This year TextXD conference will feature a three-day (48 hour) [**“Law and Society” Hackathon**](https://2020.textxd.org/post/hackathon/) on December 10-12. Participants will focus on analyzing text datasets from investigative reporting on the subject of police misconduct.
 
 🗓️ We will accept applications up until December 5, 2020.
 
