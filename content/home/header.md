@@ -75,7 +75,7 @@ width: 50%;
 <div class="container">
   <div class="row">
     <div class="col text-center">
-    <a href="https://berkeley.zoom.us/webinar/register/WN_uPdQfKKVSkeadE4xm1q2Og" type="button" class="btn btn-outline-light btn-lg">Webinar</a>
+    <a href="https://www.youtube.com/playlist?list=PLKW2Azk23ZtSz1A4JoSSSY0FoUKSax7VF" type="button" class="btn btn-outline-light btn-lg">Video Playlist of TextXD 2020 Conference</a>
     </div>
   </div>
 </div>
